@@ -23,7 +23,9 @@ Liddell Power Station has had an interesting history. Built as part of a pair of
 
 It is currently owned by AGL Energy and has been estimated to emit 14.70 million tonnes of greenhouse gases each year as a result of burning coal. In order to help combat climate change, AGL has announced it intends to close the station and replace it with a big battery and current plans are for this to happen by April 2023.
 
-Lake Liddell is an artificial lake created to supply cooling water to the power station, and has been closed to the public because of brain eating amoeba. A local resident of the Lake Liddell campground, who works as a miner, tells me the Liddell power station is really pretty at night with the lights shining from across the lake.
+Lake Liddell is an artificial lake created to supply cooling water to the power station, and has been closed to the public because of brain eating amoeba.
+
+I flirted with Russ, a local resident of the campground, who works as a miner. He tells me the Liddell power station is really pretty at night with the lights shining from across the lake.
 
 When we were there, we also noticed a train carrying coal going across the tracks.
 
