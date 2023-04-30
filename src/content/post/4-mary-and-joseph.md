@@ -6,8 +6,8 @@ trip: Armidale 2022
 place: Australia
 timezone: Australia/NSW
 location: Saints Mary and Joseph Catholic Cathedral
-image: ../../assets/gallery/5-mary-and-joseph/Saints Mary and Joseph Cathedral (27).jpeg
-gallery: 5-mary-and-joseph
+image: ../../assets/gallery/4-mary-and-joseph/Saints Mary and Joseph Cathedral (27).jpeg
+gallery: 4-mary-and-joseph
 map: [-30.51579,151.66389,18]
 tags:
   - Armidale

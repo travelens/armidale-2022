@@ -6,8 +6,8 @@ trip: Armidale 2022
 place: Australia
 timezone: Australia/NSW
 location: St Peter's Anglican Cathedral
-image: ../../assets/gallery/5-st-peters/St Peter's Anglican Cathedral.jpeg
-gallery: 5-st-peters
+image: ../../assets/gallery/4-st-peters/St Peter's Anglican Cathedral.jpeg
+gallery: 4-st-peters
 map: [-30.51514,151.66519,19]
 tags:
   - Armidale

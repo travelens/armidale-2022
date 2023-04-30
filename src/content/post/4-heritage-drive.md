@@ -6,8 +6,8 @@ trip: Armidale 2022
 place: Australia
 timezone: Australia/NSW
 location: Armidale
-image: ../../assets/gallery/5-heritage-drive/Apex and Drummond Lookout (4).jpeg
-gallery: 5-heritage-drive
+image: ../../assets/gallery/4-heritage-drive/Apex and Drummond Lookout (4).jpeg
+gallery: 4-heritage-drive
 map: [-30.5139,151.6681,16]
 tags:
   - Armidale

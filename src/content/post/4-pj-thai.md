@@ -6,8 +6,8 @@ trip: Armidale 2022
 place: Australia
 timezone: Australia/NSW
 location: PJ Thai
-image: ../../assets/gallery/5-pj-thai/PJ Thai.jpeg
-gallery: 5-pj-thai
+image: ../../assets/gallery/4-pj-thai/PJ Thai.jpeg
+gallery: 4-pj-thai
 map: [-30.51591,151.66811,19]
 tags:
   - Armidale

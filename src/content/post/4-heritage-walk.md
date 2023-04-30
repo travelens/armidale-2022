@@ -6,8 +6,8 @@ trip: Armidale 2022
 place: Australia
 timezone: Australia/NSW
 location: Armidale
-image: ../../assets/gallery/5-heritage-walk/Beardy St.jpeg
-gallery: 5-heritage-walk
+image: ../../assets/gallery/4-heritage-walk/Beardy St.jpeg
+gallery: 4-heritage-walk
 map: [-30.5139,151.6681,16]
 tags:
   - Armidale

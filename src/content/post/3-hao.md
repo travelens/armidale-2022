@@ -6,8 +6,8 @@ trip: Armidale 2022
 place: Australia
 timezone: Australia/NSW
 location: Hao
-image: ../../assets/gallery/4-hao/Hao.jpeg
-gallery: 4-hao
+image: ../../assets/gallery/3-hao/Hao.jpeg
+gallery: 3-hao
 map: [-30.51203,151.66995,19]
 tags:
   - Armidale

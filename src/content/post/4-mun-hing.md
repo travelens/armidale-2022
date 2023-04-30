@@ -6,8 +6,8 @@ trip: Armidale 2022
 place: Australia
 timezone: Australia/NSW
 location: Mun Hing
-image: ../../assets/gallery/5-mun-hing/Mun Hing (9).jpeg
-gallery: 5-mun-hing
+image: ../../assets/gallery/4-mun-hing/Mun Hing (9).jpeg
+gallery: 4-mun-hing
 map: [-30.51266,151.66321,19]
 tags:
   - Armidale
