@@ -6,7 +6,7 @@ trip: Armidale 2022
 place: Australia
 timezone: Australia/NSW
 location: Armidale
-image: ../../assets/gallery/4-heritage-walk/Beardy St.jpeg
+image: ../../assets/gallery/4-heritage-walk/Beardy_St.jpeg
 gallery: 4-heritage-walk
 map: [-30.5139,151.6681,16]
 tags:
@@ -15,16 +15,22 @@ tags:
 ---
 ## Baptist Church
 
+![Baptist Church](../../assets/gallery/4-heritage-walk/Armidale_District_Baptist_Church_1.jpeg)
+
 The commercial traveller and evangelist, Thomas Llewellyn, organised construction of the first Baptist Church in Armidale on the
 corner of Brown and Allingham Streets. In 1918, Frank Nott constructed the present church in Gothic Revival style. The
 contrasting brickwork is similar to that used in the old Express Building and Masonic Centre in Faulkner Street.
 
 ## St Mary's Primary School
 
+![St Mary's Primary School](../../assets/gallery/4-heritage-walk/St_Marys_Catholic_Primary_School_1.jpeg)
+
 The Ursuline nuns who arrived in Australia in 1882 began teaching at St Mary's in 1883. The school had originally been founded
 as a parochial school in 1862.
 
 ## Ursuline Convent
+
+![Ursuline Convent](../../assets/gallery/4-heritage-walk/Ursuline_Convent.jpeg)
 
 This impressive building was built for Armidale investor, Peter Speare, in 1877 and sold to the Ursuline Sisters in 1882. G.F.Nott
 extended the house during the period 1901 to 1902 and the front verandah and bay window areas were added in 1922. The
@@ -32,6 +38,8 @@ large convent building facing Barney Street was constructed in 1889 and the chap
 was completed in 1928.
 
 ## Smith House and Southall
+
+![Smith House and Southall](../../assets/gallery/4-heritage-walk/Smith_House_2.jpeg)
 
 S.H. Smith House, or "The Girrawheen Boarding Establishment" as it was then known, was constructed in 1889 as a new school,
 New England Ladies College, which closed in 1904. In 1928 the house was purchased by the Armidale Teacher's College and
@@ -41,6 +49,8 @@ Smith House with verandah extensions joining the two buildings. "Southall" featu
 pieces, doors and staircase. Smith House is now privately owned and operating as long-term student accommodation.
 
 ## Central Park
+
+![Central Park](../../assets/gallery/4-heritage-walk/Central_Park_7.jpeg)
 
 Central Park was dedicated as a reserve in February 1874 as a result of the work of Brother Francis Gatti who transformed the
 area into a popular recreational site close to the centre of town. The first memorial erected in the park commemorates the Irish
@@ -53,11 +63,15 @@ in 1942.
 
 ## Town Hall
 
+![Town Hall](../../assets/gallery/4-heritage-walk/Armidale_Town_Hall.jpeg)
+
 The Town Hall was completed in 1883 and was constructed in a style popular in provincial centres around the 1880s and 1890s.
 The building features High Victorian architecture with decorative scrolls, pilasters (rectangular columns), frieze work and a
 dominating pediment (a form of gable). In 1990, the Armidale City Council renovated the interior to an Art Deco style.
 
 ## Folk Museum
+
+![Folk Museum](../../assets/gallery/4-heritage-walk/Armidale_Folk_Museum_2.jpeg)
 
 The Folk Museum, which was officially opened in November 1958, is housed in
 a stuccoed brick Victorian building with cast iron veranda. Originally
@@ -67,10 +81,14 @@ in1915.
 
 ## Diocesan Registry
 
+![Diocesan Registry](../../assets/gallery/4-heritage-walk/Diocesan_Registry.jpeg)
+
 The Diocesan Registry was built in 1824. Its contrasting coloured brick is similar to that used in the Baptist Church on the corner
 of Rusden and Jessie Streets.
 
 ## Lindsay House
+
+![Lindsay House](../../assets/gallery/4-heritage-walk/Lindsay_House_1.jpeg)
 
 This brick house was constructed in the early 1920s for Dr Walter E. Harris. The main entrance door facing Barney Street features
 a leadlight design and bay window on either side. The top storey and chimneys were stuccoed in later alterations while the
@@ -79,19 +97,24 @@ purchased the building and named it “Lindsay House” in honour of the former 
 
 ## Masonic Centre
 
+![Masonic Centre](../../assets/gallery/4-heritage-walk/Masonic_Centre.jpeg)
+
 The Masonic Lodge in Armidale was formed and a hall constructed on this site in 1860. Armidale builder, George Frederick Nott,
 built the Masonic Temple in its severe classical style in 1924. The building features a distinctive leadlight gallery. The Armidale
 Masonic Lodge has since purchased land in north-east Armidale and constructed a new building and retirement village.
 
 ## Solomon’s Cottage (139 Faulkner Street)
 
+![Solomon’s Cottage](../../assets/gallery/4-heritage-walk/Solomons_Cottage_2.jpeg)
+
 This cottage was built in 1863 by Armidale builder, Edward Grover. After ownership by various businessmen, Henry Solomon, who
 established a photographic studio in the city on 26 July 1880, purchased the cottage in the 1880s. The cottage has remained in
 the hands of the Solomon family since that date. The Georgian style cottage has been constructed in English bond brickwork and
 features a bull-nose front verandah. The original cedar doors and windows have since been replaced.
 
-
 ## St Paul’s Presbyterian Church
+
+![St Paul’s Presbyterian Church](../../assets/gallery/4-heritage-walk/St_Pauls_Presbyterian_Church_3.jpeg)
 
 The Presbyterian Church foundation stone was laid on 11 February 1881. In common with many buildings of this period, the
 foundation stone was laid over copies of contemporary newspapers, coins and a detailed document of the proceedings. With its
@@ -99,6 +122,8 @@ tall steeple, wrought iron decorations, lancet windows and rose window, the buil
 church. The first services commenced at St Paul’s on 30 April 1882.
 
 ## Armidale Uniting Church
+
+![Armidale Uniting Church](../../assets/gallery/4-heritage-walk/Armidale_Uniting_Church_2.jpeg)
 
 The first Wesleyan Church in Armidale was opened on 10 July 1864 under the instruction of Rev. Richard Watson Orton. The
 Uniting Church now uses this building as a community hall. Its cedar fittings and coloured glass inlays have been retained. The
@@ -108,6 +133,8 @@ in use today.
 
 ## St Kilda Hotel
 
+![St Kilda Hotel](../../assets/gallery/4-heritage-walk/St_Kilda_Hotel.jpeg)
+
 October 2011 marked the 150th anniversary of the St Kilda Hotel. Called the Freemasons Hotel when its foundation stone was
 laid, the two storey building at the corner of Rusden and Marsh Streets opened circa June 1863. In July 1870, its name was
 changed to the St Kilda Hotel. By July 1875, the Hotel was taken over by Benjamin Kendall for use as the Armidale Grammar
@@ -116,16 +143,22 @@ than a decade, the building had major renovations in 1912 and 1913 and re-opened
 
 ## Armidale Express Office
 
+![Armidale Express Office](../../assets/gallery/4-heritage-walk/Armidale_Express_Office.jpeg)
+
 The Armidale Express printed its first edition of the newspaper on 5 April 1856 and has continued to serve the New England
 district with local news since that date. The newspaper is Australia’s oldest country newspaper.
 
 ## Lands Office
+
+![Lands Office](../../assets/gallery/4-heritage-walk/Lands_Office.jpeg)
 
 With its solid English bond brick walls and elegant veranda, the 1887 Lands Office complements both the post office and the
 Imperial Hotel. The building originally had a slate roof and chimneys with slate chimney pots. The same architect who supervised
 the building of the Post Office designed the building.
 
 ## Imperial Hotel
+
+![Imperial Hotel](../../assets/gallery/4-heritage-walk/Imperial_Hotel_1.jpeg)
 
 The first hotel in Armidale was opened in 1843 and by 1850 seven hotels served
 a population of less than 900. The Imperial was established in 1890. The then
@@ -137,18 +170,24 @@ pediments and Grecian urns.
 
 ## Post Office
 
+![Post Office](../../assets/gallery/4-heritage-walk/Post_Office.jpeg)
+
 The Armidale Post Office has stood on this site since 1880. Prior to this date it is thought that postal transactions were carried
 out in the postmaster’s private residences. For twenty years the various postmasters of the time received a commission and a
 small allowance for their duties. The appearance of the building, which is similar in style to many of the surrounding buildings,
 helps to create a superbly scaled streetscape. The balcony and arched verandah were added in 1897 with further alterations
 being made over many years.
 
-##The Mall
+## The Mall
+
+![The Mall](../../assets/gallery/4-heritage-walk/Beardy_St.jpeg)
 
 The Mall was opened in 1973 and includes gardens, trees, seats and playground equipment. Armidale City Council refurbished
 the Mall in 1988. Many heritage buildings are situated in the mall.
 
 ## Court House
+
+![Court House](../../assets/gallery/4-heritage-walk/Court_House.jpeg)
 
 The Court House was constructed during the period 1859 to 1860 and originally
 faced north, overlooking Market Square and the lockup was originally next door
@@ -166,12 +205,16 @@ iron gates, a cobbled vestibule, and cedar furniture and joinery. The clock towe
 
 ## Celtic Cross
 
+![Celtic Cross](../../assets/gallery/4-heritage-walk/Celtic_Cross.jpeg)
+
 The Celtic Cross was erected to commemorate the first Christian Church Service held in Armidale on 12 October 1845. The
 granite came from a dry creek bed on the western side of Mount Hutton near Uralla. As New England did not have machinery
 large enough to cut the huge piece of granite, it was sent, by train, to F.J. Arnold’s granite and sandstone quarry at Paddington in
 Sydney to be cut and polished.
 
 ## Westpac
+
+![Westpac](../../assets/gallery/4-heritage-walk/Westpac.jpeg)
 
 The Westpac Bank building (formerly the Bank of New South Wales) was designed by Gordon W. Lee in Georgian revival style,
 with metal framed windows, tiled roof, and panelled timber doors. The date of 1817, which appears on the parapet, relates to
@@ -181,16 +224,22 @@ Imperial Hotel circa 1910
 
 ## AMP Society
 
+![AMP Society](../../assets/gallery/4-heritage-walk/AMP.jpeg)
+
 The AMP Society building, built in 1929, features a Georgian revival stuccoed brick facade. The elegance of this building is
 reflected in its sandstone entrance, timber shutters, timber-framed windows, sculptured figurines and terracotta roof. The AMP
 motto appearing in Latin under the figurines means “a certain friend in uncertain times.”
 
 ## Hanna’s Arcade
 
+![Hanna’s Arcade](../../assets/gallery/4-heritage-walk/Hannas.jpeg)
+
 Hanna’s was established in 1921 and is one of the longest running family businesses in Armidale. In the arcade there is a large
 stained-glass window depicting life in the area: rural industry, education and cathedrals.
 
 ## "McLean's Corner"
+
+![McLean's Corner](../../assets/gallery/4-heritage-walk/Police_Station.jpeg)
 
 This structure was established as an
 archaeological interpretive project to preserve the remains of what used to be a house and mill dating back to the 1850s, originally
@@ -198,20 +247,28 @@ owned by Mr McLean a local businessman and onetime mayor and coroner of Armidale
 
 ## Sheriff's Cottage
 
+![Sheriff's Cottage](../../assets/gallery/4-heritage-walk/Sherriffs_Cottage.jpeg)
+
 Situated at the rear of the original Armidale Court House. The building was originally a "lockup" and two of the cell windows
 faced Moore Street, but have since been bricked in. On the opposite corner is the Armidale Police Station and current "lockup".
 
 ## The Stables
 
+![The Stables](../../assets/gallery/4-heritage-walk/The_Stables.jpeg)
+
 Constructed approximately 1879, the building still has a slate roof and hoist over the main door to serve the loft.
 
 ## New England Hotel
+
+![New England Hotel](../../assets/gallery/4-heritage-walk/New_England_Hotel_1.jpeg)
 
 One hundred years ago the traveller to Armidale had a choice of 21 hotels, today there are nine. First opened in 1857, the New
 England Hotel is one of Armidale's oldest business establishments. The original building stood for 40 years until rebuilt on the
 same site in 1897 by a local builder, George F. Nott.
 
 ## J.R. Richardson and Company Limited 1842
+
+![J.R. Richardson and Company](../../assets/gallery/4-heritage-walk/Richardson_Co.jpeg)
 
 The site of this shopping complex is the oldest business site in Armidale in continual commercial occupation. The first building to
 be constructed on this site was John Mather's Armidale Stores where apparently bartering was an acceptable trade practice.
@@ -221,10 +278,14 @@ John Richardson in Brisbane. Over several years extensive remodelling has taken 
 
 ## Beardy Street
 
+![Alt text](../../assets/gallery/4-heritage-walk/Beardy_St_1.jpeg)
+
 Beardy Street was named after Duval and Chandler, two bearded stockmen who were employed as guides by prospective
 squatters in the area.
 
 ## State Bank
+
+![State Bank](../../assets/gallery/4-heritage-walk/State_Bank.jpeg)
 
 The Australian Joint Stock Bank, later to be known as the State Bank, was constructed between 1887 and 1889. The high
 Victorian architecture of the time is reflected in the elegant columns, balustrades and tower-like structures on the front corners
@@ -232,10 +293,15 @@ of the building. Entrance to the building formerly involved an iron shutter that
 
 ## Capitol Cinema
 
+![Capitol Cinema](../../assets/gallery/4-heritage-walk/Capitol_Theatre_1.jpeg)
+
 The Capitol Cinema opened in 1925 as the Theatre Royal. Three years later the cinema reopened as the Capitol and remained a
 popular venue for well over fifty years.
 
 ## Minto
+
+![Minto](../../assets/gallery/4-heritage-walk/The_Minto.jpeg)
+
 The Minto, originally known as the Central Hotel, was designed by J. Rutledge Louat and constructed in 1894. Although this
 Victorian building has been substantially remodelled, remnants of the original cast iron lace work used in its original verandah
 can still be seen on the upper window ledges.

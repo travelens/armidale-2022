@@ -18,11 +18,26 @@ This is the companion to the heritage walk.
 
 We did not stop at all the locations listed in the guide, but the key ones are:
 
+- St Mary's Anglican Church
+  ![St Mary's Anglican Church](../../assets/gallery/4-heritage-drive/St_Marys_Anglican_Church,_West_Armidale_1.jpeg)
 - Johnson and Kennedy Service Station
+  ![Johnson and Kennedy Service Station](../../assets/gallery/4-heritage-drive/Johnson_Kennedy_Service_Station.jpeg)
 - Armidale Train Station
+  ![Armidale Train Station](../../assets/gallery/4-heritage-drive/Armidale_Railway_Station.jpeg)
+- Crossword Cafe
+  ![Crossword Cafe](../../assets/gallery/4-heritage-drive/Crossword_Cafe_1.jpeg)
+- Railway Hotel
+  ![Railway Hotel](../../assets/gallery/4-heritage-drive/Railway_Hotel.jpeg)
 - Armidale Cemetery
+  ![Armidale Cemetery](../../assets/gallery/4-heritage-drive/Armidale_Cemetery.jpeg)
+- St. Patrick's Orphanage
+  ![St. Patrick's Orphanage](../../assets/gallery/4-heritage-drive/St_Patricks_Orphanage.jpeg)
 - Apex and Drummond Lookout
+  ![Apex and Drummond Lookout](../../assets/gallery/4-heritage-drive/Apex_and_Drummond_Lookout_6.jpeg)
+- O'Connor Catholic College
+  ![O'Connor Catholic College](../../assets/gallery/4-heritage-drive/OConnor_Catholic_College_4.jpeg)
 - The Armidale School
+  ![The Armidale School](../../assets/gallery/4-heritage-drive/The_Armidale_School_3.jpeg)
 
 Armidale was ofﬁcially declared a town in 1846. A few years later, the arrival of the railway and discovery of gold at Rocky River and Hillgrove heralded a population and building boom. Valuable minerals and metals, including tin, were discovered at other sites around the region and hundreds of Chinese joined the workforce, adding another dimension to the cultural mix.
 

@@ -15,7 +15,11 @@ tags:
 ---
 The main locations we have not visited are Martins Gully School and the Arboretum, plus a few others
 
+![Martins Gully School](../../assets/gallery/5-armidale/Martins_Gully_School_1.jpeg)
+
 Armidale Bicentennial Arboretum is a heritage listed park bounded by Kentucky, Butler and Galloway streets.
+
+![Bicentennial Arboretum](../../assets/gallery/5-armidale/Arboretum.jpeg)
 
 It contains thousands of native and imported shrubs and trees, walking tracks, a north-facing lookout, picnic shelters, a toilet block and aquatic gardens with a waterfall and footbridge.
 

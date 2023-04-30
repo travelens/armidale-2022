@@ -18,6 +18,8 @@ Tamworth Regional Playground and the adjoining Bicentennial Park forms a green s
 
 There is a playground for the young kids, as well as plenty of open space for them to run around. There are also several sporting fields and a swimming pool in the area.
 
+![Tamworth Regional Playground](../../assets/gallery/2-bicentennial-park/Tamworth_Regional_Playground.jpeg)
+
 Near the duck pond there is a statue celebrating the Australian horses that went to the early wars we were involved in, but never returned. There is also some other war memorials in the park.
 
 Located at the entrance to Bicentennial Park is Pioneer's Parade, a row of busts featuring some of Australia’s best loved music legends.

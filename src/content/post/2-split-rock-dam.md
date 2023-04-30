@@ -15,4 +15,4 @@ tags:
 ---
 [Split Rock Dam](https://www.waternsw.com.au/nsw-dams/regional-nsw-dams/split-rock-dam) is situated on the Manilla River about 28 kilometres upstream of Manilla and 70 kilometres north-west of Tamworth on the NSW North West Slopes. The dam is about 500 kilometres north-west of Sydney.
 
-When we visited, access to the dam wall was restricted for safety reasons due to the recent rain. We were only able to admire the dam from the lookout point.
+When we visited, access to the dam wall was restricted for safety reasons due to the recent rain and falling rocks. We were only able to admire the dam from the lookout point.
