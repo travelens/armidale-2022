@@ -21,4 +21,6 @@ After that, we went on the [Chandler walking track](https://www.nationalparks.ns
 
 From Wollomombi lookout, we gazed across the spectacular waterfall where water plunges dramatically into the ravine below. From here, the track leads through woodlands of stringybarks and blackbutts. Another lookout allowed us to gaze across the maze of gorges and valleys.
 
-The crossing across Chandler River was quite threacherous, with one of the railings having fallen and the river raging below. Fortunately, we made it safely.
+The falls were looking better than any tourist brochure due to the heavy rain. This is what I imagined Rivendell would look like! We walked all the way around the rim, down to Chandler river, crossed a partially collapsed bridge (It was an Indiana Jones moment) to the top of both falls.
+
+It was drizzling when we started but the rain settled into a solid pour. We were actually above the cloud level so it was strange to walk in the cloud. I have a picture of myself soaking wet at the top of Chandler Falls to prove we did it!

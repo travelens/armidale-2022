@@ -19,4 +19,6 @@ First stop is [Gara Gorge](https://www.nationalparks.nsw.gov.au/things-to-do/loo
 
 We drove to the Threlfall picnic area, which is just off Waterfall Way near Armidale and on the northern edge of Oxley Wild Rivers National Park.
 
-As the grounds were quite wet from recent rain (in fact it was drizzling whilst we were there), we just did a short loop around the picnic area and the nearby Blue Hole. The Gara Giver was raging due to the amount of water from the rains.
+As the grounds were quite wet from recent rain (in fact it was drizzling whilst we were there), we just did a short loop around the picnic area and the nearby Blue Hole. We explored the remains of the old dam at Gara Gorge and the Blue Hole.
+
+Normally, the Gara river is quiet and calm, but after the recent rains it has become a raging rapid! We also saw some classic New England granite boulders here and beautiful wildflowers.

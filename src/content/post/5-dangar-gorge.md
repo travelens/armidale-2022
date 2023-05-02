@@ -18,3 +18,5 @@ We parked at the [picnic area](https://www.nationalparks.nsw.gov.au/things-to-do
 Dangar Falls is a cascade waterfall located across the Bielsdown River about 1.2 km north of Dorrigo. The falls are small, picturesque, and are a popular photographic subject. For a short time after rain, they are quite spectacular. We were lucky to see them flowing strongly.
 
 From the lookout, we went along to the the Rock Wallaby lookout along [McDirtys Walk](https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/mcdirtys-walking-track). From the spectacular Rock Wallaby lookout, we saw unending scenic views of the deep river gouged ravines.
+
+The scenery looked like something out of Tolkien. We were last here over 25 years ago, and all I had was a film SLR with a 35-80mm zoom lens, and I really wished I had an ultra wide angle lens to capture the full perspective of the long falls, the pool at the bottom and the horseshoe gorge. Luckily I am a little better equipped these days. Some of these shots were captured at 12mm. Once again butterflies accompanied us on the walk.

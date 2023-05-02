@@ -14,6 +14,6 @@ tags:
   - Mun Hing
   - lunch
 ---
-[Mun Hing Restaurant](https://munhingrestaurant.com.au/) is an established Chinese restaurant at the heart of Armidale central business district. Lyn has fond memories of eating here, and also friends who worked here.
+[Mun Hing Restaurant](https://munhingrestaurant.com.au/) is an established Chinese restaurant at the heart of Armidale central business district. Lyn has fond memories of eating here. This was where Lyn went for birthday celebrations and special occasions, and some of her friends worked there part time.
 
 We had two dishes - they both seemed to be covered in standard nondescript brown sauce but were okay. The restaurant has a rock and water garden in front which has seen better days.

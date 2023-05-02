@@ -17,4 +17,6 @@ tags:
 ---
 [Rydges Armidale](https://www.rydges.com/accommodation/regional-nsw/armidale/) is Armidale’s premier 4.5 star hotel, offering stylish accommodation, warm professional service and delicious cuisine at Azka Restaurant or Wine & Tapas Bar.
 
-We decided to have a lavish dinner at the restaurant. I had the beef ribs, and Lyn had the barramundi. After that, we had sticky date pudding for dessert.
+We decided to have a lavish dinner at the Azka restaurant. I had the beef ribs, and Lyn had the salmon. After that, we had sticky date pudding for dessert.
+
+Felt like a whale afterwards. Sorry for the bad photos, these are all taken on my ancient iPhone.

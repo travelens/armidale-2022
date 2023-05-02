@@ -15,6 +15,8 @@ tags:
 ---
 [UNE](https://www.une.edu.au/about-une) was formed in 1938 as the New England University College, a College of the University of Sydney. The University became fully independent in 1954 and pioneered teaching to external students by correspondence, making UNE Australia's most experienced provider of distance and now online education — UNE is now Australia's second-largest online university.
 
+I did a few days of consulting here 10 years ago, assisting in writing a business case for their online expansion. The deer park is now inhabited by kangaroos.
+
 The main Armidale campus is comprised of the Academic Campus and Bellevue Campus. The Academic Campus (also known as 'up top') is the centre for teaching and research, and is located in the northern section of the Armidale campus. The Bellevue Campus, located in the southern section includes most of the residential colleges, and sporting facilities.
 
 We started at the Academic Campus and stopped at Booloominbah, the main administration building and Great Hall.
@@ -52,6 +54,8 @@ The Psychology building
 Mary White College, where Lyn resided in during her uni years.
 
 ![Mary White College](../../assets/gallery/5-une/Mary_White_College_8.jpeg)
+
+Lyn identified her old dorm room at Mary White College.
 
 Outside Mary White, we saw two kangaroos, a mother and her joey, who were very curious about us and I took a few photos.
 

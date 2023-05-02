@@ -20,3 +20,5 @@ This time, we parked at the [Blue Hole](https://www.nationalparks.nsw.gov.au/thi
 This medium length track traces the gorge ridge and combines an historic walk with jaw-dropping views.
 
 Gara Gorge follows the route of the historic 1894 hydro-electric scheme, along old embankments and through ancient cuttings of granite. At Gara Gorge lookout high above Gara River, with a backdrop of majestic blackbutt and spotted gums, gaze across the rugged wilderness.
+
+It's amazing how a few days of rain has completely transformed the river and one of the bridges is now uncrossable. We walked along the flume line of the old dam, with butterflies following us. There's spectacular views of the gorge, including the mushroom rock (which looks like something out of Tolkien), as well as the river itself. We also saw a lot of ant holes, and granite rocks.
