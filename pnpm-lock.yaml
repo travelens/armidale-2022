@@ -5,20 +5,20 @@ dependencies:
     specifier: ^0.2.2
     version: 0.2.2(@types/alpinejs@3.7.1)(alpinejs@3.12.1)
   '@astrojs/markdoc':
-    specifier: ^0.1.3
-    version: 0.1.3(astro@2.5.0)
+    specifier: ^0.2.1
+    version: 0.2.1(astro@2.5.1)
   alpinejs:
     specifier: ^3.12.1
     version: 3.12.1
   astro:
-    specifier: ^2.5.0
-    version: 2.5.0
+    specifier: ^2.5.1
+    version: 2.5.1
   astro-seo:
     specifier: ^0.7.2
     version: 0.7.2
   astro-travelens:
-    specifier: ^1.1.6
-    version: 1.1.6(@astrojs/alpinejs@0.2.2)(@iconify-json/fa6-brands@1.1.11)(@iconify-json/fa6-solid@1.1.13)(@iconify-json/flag@1.1.31)(@iconify-json/logos@1.1.31)(alpinejs@3.12.1)(astro-seo@0.7.2)(astro@2.5.0)(schema-dts@1.1.2)(unocss@0.51.13)
+    specifier: ^1.1.8
+    version: 1.1.8(@astrojs/alpinejs@0.2.2)(@iconify-json/fa6-brands@1.1.11)(@iconify-json/fa6-solid@1.1.13)(@iconify-json/flag@1.1.31)(@iconify-json/logos@1.1.31)(alpinejs@3.12.1)(astro-seo@0.7.2)(astro@2.5.1)(schema-dts@1.1.2)(unocss@0.51.13)
   exifr:
     specifier: ^7.1.3
     version: 7.1.3
@@ -49,8 +49,8 @@ devDependencies:
     specifier: ^0.51.13
     version: 0.51.13
   prettier-plugin-astro:
-    specifier: ^0.8.1
-    version: 0.8.1
+    specifier: ^0.9.0
+    version: 0.9.0
   schema-dts:
     specifier: ^1.1.2
     version: 1.1.2(typescript@5.0.4)
@@ -111,15 +111,16 @@ packages:
       vscode-uri: 3.0.7
     dev: false
 
-  /@astrojs/markdoc@0.1.3(astro@2.5.0):
-    resolution: {integrity: sha512-edzz3pagMhYBcxi0eS3wcsrSuMV13inIlfDnYHevM4gC1ws2wje1Hi8Yi41XSaMuOM4mspUriCuQje+3E/5XeQ==}
+  /@astrojs/markdoc@0.2.1(astro@2.5.1):
+    resolution: {integrity: sha512-1rSlIu8k/p9EIWtEmWQsbU1v8W8NO4ZIVzpBkgUDjkIEQ+tydh2LWOu6sbhL8hYNUWfoNSnOxnAO+UdtONTiqg==}
     engines: {node: '>=16.12.0'}
     peerDependencies:
-      astro: ^2.4.4
+      astro: ^2.5.1
     dependencies:
       '@markdoc/markdoc': 0.2.2
-      astro: 2.5.0
+      astro: 2.5.1
       esbuild: 0.17.19
+      github-slugger: 2.0.0
       gray-matter: 4.0.3
       kleur: 4.1.5
       zod: 3.21.4
@@ -128,13 +129,13 @@ packages:
       - react
     dev: false
 
-  /@astrojs/markdown-remark@2.2.1(astro@2.5.0):
+  /@astrojs/markdown-remark@2.2.1(astro@2.5.1):
     resolution: {integrity: sha512-VF0HRv4GpC1XEMLnsKf6jth7JSmlt9qpqP0josQgA2eSpCIAC/Et+y94mgdBIZVBYH/yFnMoIxgKVe93xfO2GA==}
     peerDependencies:
       astro: ^2.5.0
     dependencies:
       '@astrojs/prism': 2.1.2
-      astro: 2.5.0
+      astro: 2.5.1
       github-slugger: 1.5.0
       import-meta-resolve: 2.2.2
       rehype-raw: 6.1.1
@@ -1122,8 +1123,8 @@ packages:
     resolution: {integrity: sha512-YnSqj4E6vbF7wRk3gcxOPHBjenhfgaINEJlTsnu4sovAyfyGEdQksbioYKoZ+vERRDaYvEricfSzC6fc9lieww==}
     dev: false
 
-  /astro-travelens@1.1.6(@astrojs/alpinejs@0.2.2)(@iconify-json/fa6-brands@1.1.11)(@iconify-json/fa6-solid@1.1.13)(@iconify-json/flag@1.1.31)(@iconify-json/logos@1.1.31)(alpinejs@3.12.1)(astro-seo@0.7.2)(astro@2.5.0)(schema-dts@1.1.2)(unocss@0.51.13):
-    resolution: {integrity: sha512-BZmZda2DCrmV9o7Y26Ey7y44EqVHQLqxOmpzwPyWvin9b1t/6CA88gRxlkJkL916YU2lxJ0/W6m2dMvT/s2zXw==}
+  /astro-travelens@1.1.8(@astrojs/alpinejs@0.2.2)(@iconify-json/fa6-brands@1.1.11)(@iconify-json/fa6-solid@1.1.13)(@iconify-json/flag@1.1.31)(@iconify-json/logos@1.1.31)(alpinejs@3.12.1)(astro-seo@0.7.2)(astro@2.5.1)(schema-dts@1.1.2)(unocss@0.51.13):
+    resolution: {integrity: sha512-smKgcs5ECrcQWsxIGfAIM968zRY/g6OxnVcvgO82ICXFK5+MC8TDG/GNvv6OdlcSOenJKYO+aOVPFbEuTwKnVQ==}
     peerDependencies:
       '@astrojs/alpinejs': ^0.2.1
       '@iconify-json/fa6-brands': ^1.1.11
@@ -1131,10 +1132,10 @@ packages:
       '@iconify-json/flag': ^1.1.31
       '@iconify-json/logos': ^1.1.24
       alpinejs: ^3.12.0
-      astro: ^2.3.0
+      astro: ^2.5.1
       astro-seo: ^0.7.2
       schema-dts: ^1.1.2
-      unocss: ^0.51.2
+      unocss: ^0.51.13
     dependencies:
       '@astrojs/alpinejs': 0.2.2(@types/alpinejs@3.7.1)(alpinejs@3.12.1)
       '@iconify-json/fa6-brands': 1.1.11
@@ -1142,14 +1143,14 @@ packages:
       '@iconify-json/flag': 1.1.31
       '@iconify-json/logos': 1.1.31
       alpinejs: 3.12.1
-      astro: 2.5.0
+      astro: 2.5.1
       astro-seo: 0.7.2
       schema-dts: 1.1.2(typescript@5.0.4)
       unocss: 0.51.13(postcss@8.4.23)(vite@4.3.8)
     dev: false
 
-  /astro@2.5.0:
-    resolution: {integrity: sha512-dZZuK2vEpfinbVALthUW31NOVUFPobgyi0+2PR3FH3diy6X9HBw1PLbS5wRsWOKaEXRbzxBkXc39Rbm0yRzKaA==}
+  /astro@2.5.1:
+    resolution: {integrity: sha512-tOVlDWxxE8VBGoolW0AS0kUo7ynAMjfOPKK0XyqprAtcN7pvYZ29gLG6RJTitDhzzP3HDt+Vecg9PuUOtHrITg==}
     engines: {node: '>=16.12.0', npm: '>=6.14.0'}
     hasBin: true
     peerDependencies:
@@ -1160,7 +1161,7 @@ packages:
     dependencies:
       '@astrojs/compiler': 1.4.2
       '@astrojs/language-server': 1.0.5
-      '@astrojs/markdown-remark': 2.2.1(astro@2.5.0)
+      '@astrojs/markdown-remark': 2.2.1(astro@2.5.1)
       '@astrojs/telemetry': 2.1.1
       '@astrojs/webapi': 2.1.1
       '@babel/core': 7.21.8
@@ -1179,7 +1180,7 @@ packages:
       cookie: 0.5.0
       debug: 4.3.4
       deepmerge-ts: 4.3.0
-      devalue: 4.3.1
+      devalue: 4.3.2
       diff: 5.1.0
       es-module-lexer: 1.2.1
       esbuild: 0.17.19
@@ -1280,7 +1281,7 @@ packages:
     dependencies:
       caniuse-lite: 1.0.30001488
       electron-to-chromium: 1.4.402
-      node-releases: 2.0.10
+      node-releases: 2.0.11
       update-browserslist-db: 1.0.11(browserslist@4.21.5)
     dev: false
 
@@ -1514,8 +1515,8 @@ packages:
   /destr@1.2.2:
     resolution: {integrity: sha512-lrbCJwD9saUQrqUfXvl6qoM+QN3W7tLV5pAOs+OqOmopCCz/JkE05MHedJR1xfk4IAnZuJXPVuN5+7jNA2ZCiA==}
 
-  /devalue@4.3.1:
-    resolution: {integrity: sha512-Kc0TSP9IUU9eg55au5Q3YtqaYI2cgntVpunJV9Exbm9nvlBeTE5p2NqYHfpuXK6+VF2hF5PI+BPFPUti7e2N1g==}
+  /devalue@4.3.2:
+    resolution: {integrity: sha512-KqFl6pOgOW+Y6wJgu80rHpo2/3H07vr8ntR9rkkFIRETewbf5GaYYcakYfiKz89K+sLsuPkQIZaXDMjUObZwWg==}
     dev: false
 
   /diff@5.1.0:
@@ -2571,8 +2572,8 @@ packages:
   /node-fetch-native@1.1.1:
     resolution: {integrity: sha512-9VvspTSUp2Sxbl+9vbZTlFGq9lHwE8GDVVekxx6YsNd1YH59sb3Ba8v3Y3cD8PkLNcileGGcA21PFjVl0jzDaw==}
 
-  /node-releases@2.0.10:
-    resolution: {integrity: sha512-5GFldHPXVG/YZmFzJvKK2zDSzPKhEp0+ZR5SVaoSag9fsL5YgHbUHDfnG5494ISANDcK4KwPXAx2xqVEydmd7w==}
+  /node-releases@2.0.11:
+    resolution: {integrity: sha512-+M0PwXeU80kRohZ3aT4J/OnR+l9/KD2nVLNNoRgFtnf+umQVFdGBAO2N8+nCnEi0xlh/Wk3zOGC+vNNx+uM79Q==}
     dev: false
 
   /normalize-path@3.0.0:
@@ -2748,6 +2749,17 @@ packages:
       prettier: 2.8.8
       sass-formatter: 0.7.6
       synckit: 0.8.5
+    dev: false
+
+  /prettier-plugin-astro@0.9.0:
+    resolution: {integrity: sha512-LZ47EzCz0RvJBzC2GhtP5MI4ygEci/N5z73MMWAZFIOfSrn53sWCz0pN2HDwDGI7tvGg5Q5dnaX4EBrzkdb2Hg==}
+    engines: {node: ^14.15.0 || >=16.0.0, pnpm: '>=7.14.0'}
+    dependencies:
+      '@astrojs/compiler': 1.4.2
+      prettier: 2.8.8
+      sass-formatter: 0.7.6
+      synckit: 0.8.5
+    dev: true
 
   /prettier@2.8.8:
     resolution: {integrity: sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==}
@@ -2918,8 +2930,8 @@ packages:
     resolution: {integrity: sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==}
     engines: {iojs: '>=1.0.0', node: '>=0.10.0'}
 
-  /rollup@3.22.0:
-    resolution: {integrity: sha512-imsigcWor5Y/dC0rz2q0bBt9PabcL3TORry2hAa6O6BuMvY71bqHyfReAz5qyAqiQATD1m70qdntqBfBQjVWpQ==}
+  /rollup@3.22.1:
+    resolution: {integrity: sha512-ZI+GSAqOkCyTtJPlwyPOaYKa0RqvztN4miRVusVJseMj6BIBT2f6pFeK90IdJsQ86FLMYkxju2whuck3yKPE4Q==}
     engines: {node: '>=14.18.0', npm: '>=8.0.0'}
     hasBin: true
     optionalDependencies:
@@ -3409,7 +3421,7 @@ packages:
     dependencies:
       esbuild: 0.17.19
       postcss: 8.4.23
-      rollup: 3.22.0
+      rollup: 3.22.1
     optionalDependencies:
       fsevents: 2.3.2
 
