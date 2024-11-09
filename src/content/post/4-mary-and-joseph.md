@@ -8,12 +8,13 @@ timezone: Australia/NSW
 location: Saints Mary and Joseph Catholic Cathedral
 image: ../../assets/gallery/4-mary-and-joseph/Saints Mary and Joseph Cathedral (27).jpeg
 gallery: 4-mary-and-joseph
-map: [-30.51579,151.66389,18]
+map: [-30.51579, 151.66389, 18]
 tags:
   - Armidale
   - Saints Mary and Joseph Catholic Cathedral
   - church
 ---
+
 This magnificent building replaced the modest picturesque St Mary’s Cathedral which
 graced the site from 1872-1912. On 5 February the foundation stone of a larger and
 statelier Cathedral was laid. Sydney Architects, Sheerin and Hennessey, drew up plans

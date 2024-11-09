@@ -8,12 +8,13 @@ timezone: Australia/NSW
 location: St Peter's Anglican Cathedral
 image: ../../assets/gallery/4-st-peters/St Peter's Anglican Cathedral.jpeg
 gallery: 4-st-peters
-map: [-30.51514,151.66519,19]
+map: [-30.51514, 151.66519, 19]
 tags:
   - Armidale
   - St Peter's Anglican Cathedral
   - church
 ---
+
 In 1850 the small timber church of St Peter was built on the northern side of
 Central Park. Horbury Hunt was engaged to design and supervise construction
 of a cathedral in Armidale in 1869. The foundation stones were laid on

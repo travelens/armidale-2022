@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Armidale
 image: ../../assets/gallery/5-armidale/Arboretum (2).jpeg
 gallery: 5-armidale
-map: [-30.5139,151.6681,16]
+map: [-30.5139, 151.6681, 16]
 tags:
   - Armidale
   - historic
 ---
+
 The main locations we have not visited are Martins Gully School and the Arboretum, plus a few others
 
 ![Martins Gully School](../../assets/gallery/5-armidale/Martins_Gully_School_1.jpeg)

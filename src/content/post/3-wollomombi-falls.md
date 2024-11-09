@@ -8,12 +8,13 @@ timezone: Australia/NSW
 location: Wollomombi Falls
 image: ../../assets/gallery/3-wollomombi-falls/Wollomombi Falls.jpeg
 gallery: 3-wollomombi-falls
-map: [-30.4760,152.2918,16]
+map: [-30.4760, 152.2918, 16]
 tags:
   - Waterfall Way
   - Wollomombi Falls
 ---
-Wollomombi Falls is a plunge waterfall on the Wollomombi River in the Oxley Wild Rivers National Park. It is  approximately 1.45 kilometres (0.90 mi) off the Waterfall Way, on top of the Wollomombi Gorge near the confluence of the Wollomombi River with the Chandler River. Nearby is the Chandler Falls on the Chandler River. The falls descend from an elevation of 907 metres (2,976 ft) above sea level (AHD) in one drop of 100 metres (330 ft), with a total descent that ranges in height between 150–230 metres (490–750 ft) depending on the flow of the river. It is the highest waterfall in NSW and the second highest in Australia.
+
+Wollomombi Falls is a plunge waterfall on the Wollomombi River in the Oxley Wild Rivers National Park. It is approximately 1.45 kilometres (0.90 mi) off the Waterfall Way, on top of the Wollomombi Gorge near the confluence of the Wollomombi River with the Chandler River. Nearby is the Chandler Falls on the Chandler River. The falls descend from an elevation of 907 metres (2,976 ft) above sea level (AHD) in one drop of 100 metres (330 ft), with a total descent that ranges in height between 150–230 metres (490–750 ft) depending on the flow of the river. It is the highest waterfall in NSW and the second highest in Australia.
 
 The [Wollomombi Main Falls lookout](https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/wollomombi-main-falls-lookout) is a 200m walk from Wollomombi Falls picnic area. After passing through towering stringybark and blackbutt forest, we reached the large viewing platform of Wollomombi Main Falls lookout. From here we enjoyed sweeping vistas across a rugged and beautiful landscape.
 

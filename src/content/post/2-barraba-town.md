@@ -8,10 +8,11 @@ timezone: Australia/NSW
 location: Barraba
 image: ../../assets/gallery/2-barraba-town/Barraba (5).jpeg
 gallery: 2-barraba-town
-map: [-30.3797,150.6002,15]
+map: [-30.3797, 150.6002, 15]
 tags:
   - Barraba
 ---
+
 [Barraba](https://www.visitnsw.com/destinations/country-nsw/tamworth-area/barraba) is a little country town surrounded by the Nandewar Ranges and the Horton Valley, tucked into a bend of the Manilla River. The town was established in the late 1800s on the back of grazing and the gold rush, named for the Kamilaroi word meaning “camping place on the edge of a river”.
 
 With its tree-lined streets, heritage buildings and old fashioned shop fronts, Barraba is a delightful historic mining town. We liked the mix of colonial and art deco architecture on Queen Street.

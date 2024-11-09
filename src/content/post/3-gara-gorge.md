@@ -8,14 +8,15 @@ timezone: Australia/NSW
 location: Threlfall picnic area
 image: ../../assets/gallery/3-gara-gorge/Gara Gorge (22).jpeg
 gallery: 3-gara-gorge
-map: [-30.6009,151.7985,16]
+map: [-30.6009, 151.7985, 16]
 tags:
   - Waterfall Way
   - Gara Gorge
 ---
-Today we decided to explore the  185km Waterfall Way scenic drive which links Coffs harbour and Armidale, passing rainforest, river valleys and waterfalls, including New England and Dorrigo national parks.
 
-First stop is [Gara Gorge](https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/gara-gorge-lookout). 
+Today we decided to explore the 185km Waterfall Way scenic drive which links Coffs harbour and Armidale, passing rainforest, river valleys and waterfalls, including New England and Dorrigo national parks.
+
+First stop is [Gara Gorge](https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/gara-gorge-lookout).
 
 We drove to the Threlfall picnic area, which is just off Waterfall Way near Armidale and on the northern edge of Oxley Wild Rivers National Park.
 

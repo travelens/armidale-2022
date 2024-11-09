@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Uralla
 image: ../../assets/gallery/6-uralla/Uralla motorcycle parking.jpeg
 gallery: 6-uralla
-map: [-30.6434,151.4962,15]
+map: [-30.6434, 151.4962, 15]
 tags:
   - Uralla
   - historic
 ---
+
 [Uralla](https://www.uralla.com) is a prosperous rural service town surrounded by the rich, fertile soils of the New England district. Today the prosperity of the town relies on its proximity to Armidale (it has a number of commuters); the superfine wool and cattle which is produced on the surrounding properties; and its location as a tourist destination - it is almost exactly halfway between Sydney and Brisbane. Uralla describes itself as ‘Thunderbolt Country’ and this is demonstrated by the town's chief claim to fame - the bushranger Captain Thunderbot. He is one of the main features at the local museum; his body lies in the local cemetery; he has a statue in the main street; and Thunderbolt Rock, the place which he reputedly used for many of his robberies, lies only 7 km south of the town.
 
 Gold was discovered at Rocky River, near Uralla, in 1851 and soon 3400 miners were there searching for the precious ore. By 1855, this number had grown to 5000.

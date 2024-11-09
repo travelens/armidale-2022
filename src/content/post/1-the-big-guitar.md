@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Big Golden Guitar
 image: ../../assets/gallery/1-the-big-guitar/The Big Guitar (2).jpeg
 gallery: 1-the-big-guitar
-map: [-31.12757,150.92362,19]
+map: [-31.12757, 150.92362, 19]
 tags:
   - Tamworth
   - The Big Guitar
 ---
+
 Located 405km north-west of Sydney, 280km from Newcastle and 570km south of Brisbane, Tamworth is easy to get to regardless of whether you’re driving, or sitting back to let someone else do the hard work on a plane, bus or train.
 
 Home to the Kamilaroi/Gamilaroi/Gomeroi people for thousands of years, [Tamworth](https://www.destinationtamworth.com.au/) is a regional city perhaps best known as the Country Music Capital, home to the Big Golden Guitar, and Mecca to fans of the annual Tamworth Country Music Festival.

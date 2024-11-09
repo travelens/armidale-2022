@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: UNE
 image: ../../assets/gallery/5-une/Booloominbah_11.jpeg
 gallery: 5-une
-map: [-30.4903,151.6397,15]
+map: [-30.4903, 151.6397, 15]
 tags:
   - Armidale
   - University of New England
 ---
+
 [UNE](https://www.une.edu.au/about-une) was formed in 1938 as the New England University College, a College of the University of Sydney. The University became fully independent in 1954 and pioneered teaching to external students by correspondence, making UNE Australia's most experienced provider of distance and now online education — UNE is now Australia's second-largest online university.
 
 I did a few days of consulting here 10 years ago, assisting in writing a business case for their online expansion. The deer park is now inhabited by kangaroos.

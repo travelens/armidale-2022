@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Deeargee Woolshed
 image: ../../assets/gallery/5-deeargee-woolshed/Deeargee Station (1).jpeg
 gallery: 5-deeargee-woolshed
-map: [-30.69922,151.58865,17]
+map: [-30.69922, 151.58865, 17]
 tags:
   - Armidale
   - Deeargee Woolshed
 ---
+
 After Dangar Gorge, we decided to drive to the picturesque Gostwyck Chapel. Along the way, we passed through the well known landmark called Deeargee Woolshed.
 
 Originally part of Gostwyck Station, Deeargee Station and its unique octagonal woolshed gained their name from the old Gostwyck wool brand, DRG, which stood for "Dangar, Gostwyck". The woolshed was built in 1872 replacing an earlier shearing shed that had been destroyed by fire.

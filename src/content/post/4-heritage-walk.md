@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Armidale
 image: ../../assets/gallery/4-heritage-walk/Beardy_St.jpeg
 gallery: 4-heritage-walk
-map: [-30.5139,151.6681,16]
+map: [-30.5139, 151.6681, 16]
 tags:
   - Armidale
   - walk
 ---
+
 ## Baptist Church
 
 ![Baptist Church](../../assets/gallery/4-heritage-walk/Armidale_District_Baptist_Church_1.jpeg)

@@ -8,10 +8,11 @@ timezone: Australia/NSW
 location: Barraba Silo Art
 image: ../../assets/gallery/2-barraba-silo-art/Barraba Silo Art (3).jpeg
 gallery: 2-barraba-silo-art
-map: [-30.39917,150.61413,17]
+map: [-30.39917, 150.61413, 17]
 tags:
   - Barraba
 ---
+
 [‘The Water Diviner’](https://www.australiansiloarttrail.com/barraba) by artist Fintan Magee was unveiled in April 2019 and has received worldwide notoriety.
 
 The Barraba Silos are privately owned by Simon and Amanda Koopman and are located at the southern entrance to town on Manilla Road.

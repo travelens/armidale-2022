@@ -1,5 +1,5 @@
 ---
-title: "Day 4: Armidale (Heritage Drive)"
+title: 'Day 4: Armidale (Heritage Drive)'
 date: 2022-02-27T16:00:00+11:00
 description: After the heritage walk, we went on a heritage drive.
 trip: Armidale 2022
@@ -8,12 +8,13 @@ timezone: Australia/NSW
 location: Armidale
 image: ../../assets/gallery/4-heritage-drive/Apex and Drummond Lookout (4).jpeg
 gallery: 4-heritage-drive
-map: [-30.5139,151.6681,16]
+map: [-30.5139, 151.6681, 16]
 tags:
   - Armidale
   - drive
   - historic
 ---
+
 This is the companion to the heritage walk.
 
 We did not stop at all the locations listed in the guide, but the key ones are:

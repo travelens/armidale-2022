@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Oxley Lookout
 image: ../../assets/gallery/1-oxley-lookout/Oxley Lookout (3).jpeg
 gallery: 1-oxley-lookout
-map: [-31.08342,150.94674,17]
+map: [-31.08342, 150.94674, 17]
 tags:
   - Tamworth
   - Oxley Lookout
 ---
+
 Oxley Scenic Lookout is a highlight of any visit to Tamworth. We followed Tamworth’s jacaranda-lined White St to the very top, and reached this viewpoint. The lookout, originally Oxley Park, is named in honour of John Oxley, Surveyor General and explorer, who passed through the Tamworth area in 1818.
 
 The views are almost 180 degrees and stretch for kilometres into the distance providing incredible views of both the city and Peel River Valley.

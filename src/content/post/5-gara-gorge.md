@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Blue Hole picnic area
 image: ../../assets/gallery/5-gara-gorge/Gara Gorge (60).jpeg
 gallery: 5-gara-gorge
-map: [-30.59523,151.79838,19]
+map: [-30.59523, 151.79838, 19]
 tags:
   - Waterfall Way
   - Gara Gorge
 ---
+
 This time, we parked at the [Blue Hole](https://www.nationalparks.nsw.gov.au/things-to-do/picnic-areas/blue-hole-picnic-area) picnic area.
 
 [Threlfall walking track](https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/threlfall-walking-track) in Oxley Wild Rivers National Park takes in the spectacular Gara Gorge wilderness area, with scenic views and a chance to see the historic hydro-electric scheme.

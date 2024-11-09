@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Liddell Power Station
 image: ../../assets/gallery/1-lake-liddell/Lake Liddell (1).jpeg
 gallery: 1-lake-liddell
-map: [-32.3718,150.9565,13]
+map: [-32.3718, 150.9565, 13]
 tags:
   - Liddell Power Station
   - Lake Liddell
 ---
+
 We drove off in the morning, and was pleasantly surprised that in the intervening years, the Hunter Expressway (the largest single road investment in the history of New South Wales) is finally finished (it opened in March 2014). This expressway is a 40 km dual carriageway connecting the F3 Freeway to the New England Highway west of Branxton.
 
 We stopped by at Singleton for lunch at Hungry Jacks, and reached Muswellbrook earlier than expected in the afternoon. It was too early for dinner for we decided to stop by and visit the Liddell and Bayswater power stations.

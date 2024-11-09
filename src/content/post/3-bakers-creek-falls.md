@@ -8,11 +8,12 @@ timezone: Australia/NSW
 location: Bakers Creek Falls
 image: ../../assets/gallery/3-bakers-creek-falls/Bakers Creek Falls (4).jpeg
 gallery: 3-bakers-creek-falls
-map: [-30.54367,151.89097,17]
+map: [-30.54367, 151.89097, 17]
 tags:
   - Waterfall Way
   - Bakers Creek Falls
 ---
+
 We had problems finding the falls as we missed the turnoff and came back via the back way. The correct way is via Old Hillgrove Rd.
 
 Once we found the picnic area and toilets, a short walk took us to a viewing platform of the falls. Bakers Falls can be seen in the distance from the viewing platform. There is no formal walking track to get a closer view to Bakers Falls, just bush bashing if you had any hopes of reaching it. The falls can often be very dry so it's recommended viewing them after heavy rain for a more magnificent view. Luckily today the falls are quite spectacular due to recent rain.
